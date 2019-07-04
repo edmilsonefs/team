@@ -1,0 +1,94 @@
+{
+  "name": "wg-triage",
+  "kind": "working_group",
+  "subteam_of": "operations",
+  "members": [
+    {
+      "name": "Dylan DPC",
+      "github": "Dylan-DPC",
+      "is_lead": true
+    },
+    {
+      "name": "Alex Macleod",
+      "github": "Alexendoo",
+      "is_lead": false
+    },
+    {
+      "name": "Shivam Singhal",
+      "github": "championshuttler",
+      "is_lead": false
+    },
+    {
+      "name": "Rdmilson Ferreira Da Silva",
+      "github": "edmilsonefs",
+      "is_lead": false
+    },
+    {
+      "name": "Allen Bui",
+      "github": "fairingrey",
+      "is_lead": false
+    },
+    {
+      "name": "Gagandeep Singh",
+      "github": "gagan0723",
+      "is_lead": false
+    },
+    {
+      "name": "Hoàng Đức Hiếu",
+      "github": "hdhoang",
+      "is_lead": false
+    },
+    {
+      "name": "Joel Parmer",
+      "github": "joelpalmer",
+      "is_lead": false
+    },
+    {
+      "name": "John Simon",
+      "github": "johncsimon",
+      "is_lead": false
+    },
+    {
+      "name": "Yuki Okushi",
+      "github": "JohnTitor",
+      "is_lead": false
+    },
+    {
+      "name": "Hasan",
+      "github": "JuanPotato",
+      "is_lead": false
+    },
+    {
+      "name": "Chase Wilson",
+      "github": "Kixiron",
+      "is_lead": false
+    },
+    {
+      "name": "Luis Manarang",
+      "github": "ProgrammaticNajel",
+      "is_lead": false
+    },
+    {
+      "name": "Ryan Holderfield",
+      "github": "rholderfield",
+      "is_lead": false
+    },
+    {
+      "name": "Sonia",
+      "github": "soniasingla",
+      "is_lead": false
+    }
+  ],
+  "website_data": {
+    "name": "Triage Working Group",
+    "description": "Triage repositories under rust-lang organisation",
+    "page": "wg-triage",
+    "email": null,
+    "repo": null,
+    "discord": {
+      "channel": "#triage-wg",
+      "url": "https://discord.gg/e6Q3cvu"
+    },
+    "weight": 0
+  }
+}
